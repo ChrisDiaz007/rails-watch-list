@@ -19,6 +19,12 @@ Key Features:
 
 •	Responsive front-end styled with Bootstrap 5 + custom CSS
 
+<img width="1920" height="958" alt="Screenshot 2025-08-25 at 11 18 46 AM" src="https://github.com/user-attachments/assets/b8f69855-f59b-433d-b423-de2c5701819f" />
+
+<img width="1920" height="958" alt="Screenshot 2025-08-25 at 11 19 35 AM" src="https://github.com/user-attachments/assets/8597a8c5-5616-4c20-9308-a0d3debfac89" />
+
+<img width="1920" height="958" alt="Screenshot 2025-08-25 at 11 40 42 AM" src="https://github.com/user-attachments/assets/f732714c-e176-49ad-8ec1-d278a6b99b9a" />
+
 
 ## Rails app generation
 
