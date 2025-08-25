@@ -3,9 +3,11 @@
 First app
 In this project, I created a web application for managing personalized movie watch lists. The system allows users to create new lists, view all their lists, and explore the details of each list. Users can bookmark movies into specific lists, leave comments on those bookmarks, and remove bookmarks when they no longer want them. Each list enforces unique names, while bookmarks ensure unique [movie, list] pairings with a minimum comment length. Movies are pre-seeded from the TMDB API, giving users a real collection to build from. The application is fully responsive and styled with Bootstrap, providing a clean and user-friendly interface.
 
-
+Key Features:
 •Create, view, and manage personalized movie lists
+
 •	Add movies to lists with bookmarks + user comments
+
 •	Delete bookmarks and lists (with dependent cleanup)
 •	Many-to-many relationship between movies and lists through bookmarks
 •	Validations for unique names, unique [movie, list] pairs, and minimum comment length
