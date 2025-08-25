@@ -1,0 +1,21 @@
+/* From Uiverse.io by JkHuger */
+@keyframes typing {
+  from {
+    width: 0;
+  }
+}
+
+@keyframes blink-caret {
+  50% {
+    border-color: transparent;
+  }
+}
+
+.animation {
+  border-right: .1em solid black;
+  width: 12.20ch;
+  white-space: nowrap;
+  overflow: hidden;
+  -webkit-animation: typing 1.5s steps(13, end) .5s infinite alternate,
+	           blink-caret .5s step-end infinite;
+}

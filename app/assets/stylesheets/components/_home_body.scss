@@ -1,0 +1,9 @@
+.home-body {
+  background-color:#FFBC1D;
+  background-image: linear-gradient(
+    180deg,
+    #f9f9f9 0%,              /* top fade */
+    rgba(255, 255, 255, 0.715) 40%, /* transparent middle */
+    rgba(255, 255, 255, 0.846) 80%, /* transparent middle */
+    #f9f9f9 100%             /* bottom fade */
+  );}
