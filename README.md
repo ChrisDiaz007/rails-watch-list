@@ -9,9 +9,13 @@ Key Features:
 •	Add movies to lists with bookmarks + user comments
 
 •	Delete bookmarks and lists (with dependent cleanup)
+
 •	Many-to-many relationship between movies and lists through bookmarks
+
 •	Validations for unique names, unique [movie, list] pairs, and minimum comment length
+
 •	Seeded with real movies (TMDB API proxy)
+
 •	Responsive front-end styled with Bootstrap 5 + custom CSS
 
 
